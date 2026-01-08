@@ -69,10 +69,15 @@ Print the password
 Welcome to the PyPassword Generator!
 
 How many letters would you like in your password?
+
 5
+
 How many symbols would you like?
+
 5
+
 How many numbers would you like?
+
 5
 
 3Pc$%#310uB+8w&
